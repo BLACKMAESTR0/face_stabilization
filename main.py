@@ -88,7 +88,6 @@ def draw_info_panel(frame, alpha_yolo, alpha_lstm, seq_len, pred_len):
     info_lines = [
         f"ALPHA_YOLO: {alpha_yolo:.2f} (Q/W)",
         f"ALPHA_LSTM: {alpha_lstm:.2f} (A/S)",
-        f"SUM: {alpha_yolo + alpha_lstm:.2f}",
         f"SEQ_LEN: {seq_len} (Z/X)",
         f"PRED_LEN: {pred_len} (C/V)",
     ]
