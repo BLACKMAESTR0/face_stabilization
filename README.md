@@ -33,7 +33,6 @@ https://huggingface.co/Bingsu/adetailer/blob/main/face_yolov8n.pt
 Процесс обучения указан в блокноте models/lstm_train.ipynb
 
 При обучении использовался открытый датасет "YouTube Faces"
-
 https://www.cs.tau.ac.il/~wolf/ytfaces/
 
 
